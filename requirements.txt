@@ -1,0 +1,8 @@
+pybit==5.8.0
+pandas==2.2.2
+numpy==1.26.4
+aiohttp==3.9.5
+flask==3.0.3
+python-dotenv==1.0.1
+requests==2.31.0
+dnspython==2.6.1
